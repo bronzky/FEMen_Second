@@ -30,9 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repo](https://github.com/bronzky/FEMen_Second)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [Live site URL](https://bronzky.github.io/FEMen_Second/)
 
 ### Built with
 
